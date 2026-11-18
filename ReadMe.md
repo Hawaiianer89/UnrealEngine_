@@ -59,9 +59,3 @@ Dieses Repository ist eine **Portfolio-Dokumentation**, kein vollständiges, dir
 Die Text-Exporte machen Blueprint- und Materialgraphen lesbar, ersetzen aber nicht die ursprünglichen Assets oder eine vollständige Projektstruktur. Für eine lauffähige Übernahme werden unter anderem die passenden Meshes, Texturen, das Interaktionssystem und die jeweiligen Abhängigkeiten benötigt. Details stehen in den einzelnen Projektbeschreibungen.
 
 Die C++-Dateien gehören zu einem Unreal-Modul mit dem Export-Makro `SPIELWIESE_API`. Sie sind keine eigenständig ausführbare Anwendung.
-
-## Quellen und verwendete Assets
-
-Die Beschreibung einer Blueprint-Logik oder eines Materials bedeutet nicht, dass alle verwendeten Modelle und Texturen selbst erstellt wurden. Quellen und Lizenzangaben verwendeter Fremd-Assets werden in den jeweiligen Projektbeschreibungen ergänzt.
-
-Vor der Veröffentlichung oder Weitergabe von Fremd-Assets müssen deren Lizenzbedingungen geprüft und erforderliche Quellenangaben vervollständigt werden. Beim Korbmaterial ist hierzu bereits ein Hinweis auf die verwendete Vecteezy-Textur dokumentiert.
